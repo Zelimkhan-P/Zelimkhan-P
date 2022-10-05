@@ -60,7 +60,7 @@
 
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Zelimkhan-P/convoychat">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zelimkhan-P&repo=convoychat" />
 
