@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
      </a>
      
-  <a href="https://t.me/CHAYMALIVAY">
+  <a href="https://t.me/chuvokhi">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
      </a>
 
