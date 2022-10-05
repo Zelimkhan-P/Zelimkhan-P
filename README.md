@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/zelimkhan_p/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto: chuvokhi@gmail.com">
+  <a href="mailto: chuchtokha@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
      </a>
      
