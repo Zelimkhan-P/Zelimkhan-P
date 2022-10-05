@@ -57,7 +57,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelimkhan-P&show_icons=true&&bg_color=DEG,COLOR1,COLOR2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
