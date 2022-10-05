@@ -54,7 +54,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelimkhan-P&hide=contribs,prs
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelimkhan-P)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
