@@ -52,6 +52,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelimkhan-P&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api?Zelimkhan_P=anuraghazra&hide=contribs,prs
+
 
 
 
