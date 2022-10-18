@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+aboard+and+have+fun!;I'm+always+learning+new+things;And+looking+for+new+opportunities)](https://git.io/typing-svg)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
