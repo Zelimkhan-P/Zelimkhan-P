@@ -55,6 +55,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelimkhan-P&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+
 
 
 
