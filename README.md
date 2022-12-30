@@ -28,7 +28,7 @@
 :hammer_and_wrench: Languages and Tools:
 
  <p align="center">
-  <a href="">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,express,git,github,heroku,linux,nodejs,postgres,react,redux,ts,vscode,webpack" />
   </a>
 </p>
