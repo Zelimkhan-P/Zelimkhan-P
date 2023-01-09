@@ -42,7 +42,7 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zelimkhan-P&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru)](https://git.io/streak-stats)
  
-js,html,css,express,git,github,heroku,linux,nodejs,postgres,react,redux,ts,vscode,webpack
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelimkhan-P&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
