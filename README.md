@@ -24,7 +24,7 @@
   </a>
   </div>
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :hammer_and_wrench: Languages and Tools:
 
@@ -44,7 +44,7 @@
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelimkhan-P&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelimkhan-P&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
