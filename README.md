@@ -3,6 +3,7 @@
   <mg src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
+<div align="center"><b>Connect with me:</b></div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/zelimkhan_p/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
