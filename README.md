@@ -54,9 +54,9 @@ Right now I am focusing on frontend development, so here is a list of technologi
   <a href="https://t.me/chuvokhi">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
      </a>
-
+     
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zelimkhan-P)](https://github.com/ryo-ma/github-profile-trophy)
  
-
 
 
 
