@@ -32,7 +32,7 @@
 
 📚 My Tech Stack
 
-Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
+List of technologies that I use or have some experience with
 
  <p align="center">
   <a href="https://skillicons.dev">
