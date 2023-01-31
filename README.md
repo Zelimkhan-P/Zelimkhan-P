@@ -57,6 +57,8 @@ Right now I am focusing on frontend development, so here is a list of technologi
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zelimkhan-P)](https://github.com/ryo-ma/github-profile-trophy)
  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
