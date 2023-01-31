@@ -1,5 +1,7 @@
 
-<div align="center"><b>⚡★★  🎀  𝐻𝒾, 𝐼'𝓂 𝒵𝑒𝓁𝒾𝓂𝓀𝒽𝒶𝓃  🎀  ★★👋</b></div>
+<div align="center"><b>⚡Ｈｉ，　Ｉ＇ｍ　Ｚｅｌｉｍｋｈａｎ 👋
+  
+Ｆｒｏｎｔｅｎｄ　ｄｅｖ</b></div>
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
