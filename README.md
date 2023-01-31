@@ -1,21 +1,15 @@
 
+<div align="center"><b>⚡★★  🎀  𝐻𝒾, 𝐼'𝓂 𝒵𝑒𝓁𝒾𝓂𝓀𝒽𝒶𝓃  🎀  ★★👋</b></div>
 <div id="header" align="center">
-  <mg src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
 </div>
-<div align="center"><b>Connect with me:</b></div>
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/zelimkhan_p/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto: chuchtokha@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
-     </a>
-     
-  <a href="https://t.me/chuvokhi">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-     </a>
 
+
+
+  
+  
+  
   
  </div>
   
@@ -25,23 +19,40 @@
   </a>
   </div>
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
-:hammer_and_wrench: Languages and Tools:
+
+
+- 🌱 I’m currently learning **React, Redux**
+- 💡 Ask me about anything you like
+- ⚡ Fun fact: Programming is not writing code, but thinking about how it is written
+
+
+📚 My Tech Stack
+
+Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,express,git,github,heroku,linux,nodejs,postgres,react,redux,ts,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,git,github,heroku,nodejs,postgres,react,redux,ts,vscode,webpack" />
   </a>
 </p>
 
- :fire: My Stats :
- 
+<div align="center"><b>Connect with me:</b></div>
+<div id="badges" align="center">
+  <a href="https://www.instagram.com/zelimkhan_p/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto: chuchtokha@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+     </a>
+     <a href="https://www.linkedin.com/in/Zelimkhan-padaev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+  <a href="https://t.me/chuvokhi">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+     </a>
 
- 
-
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zelimkhan-P&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru)](https://git.io/streak-stats)
  
 
 
