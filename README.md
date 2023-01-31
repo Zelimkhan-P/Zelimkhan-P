@@ -40,7 +40,7 @@ Right now I am focusing on frontend development, so here is a list of technologi
   </a>
 </p>
 
-<div align="center"><b>Connect with me:</b></div>
+<div align="center"><b>𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</b></div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/zelimkhan_p/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
@@ -57,7 +57,10 @@ Right now I am focusing on frontend development, so here is a list of technologi
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zelimkhan-P)](https://github.com/ryo-ma/github-profile-trophy)
  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <div align="center"><b>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐐𝐮𝐨𝐭𝐞𝐬</b></div>
+  
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
