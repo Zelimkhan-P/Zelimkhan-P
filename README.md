@@ -1,9 +1,28 @@
 
 <div  align="center"><b> ⚡Ｈｉ， Ｉ＇ｍ Ｚｅｌｉｍｋｈａｎ 👋 </b></div>
-<div id="header" align="center">
+
+<div align="center"><b>Connect with me:</b></div>
+
+<div id="badges" align="center">
   
+  <a href="https://www.instagram.com/zelimkhan_p/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto: chuchtokha@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+     </a>
+     <a href="https://www.linkedin.com/in/Zelimkhan-padaev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+  <a href="https://t.me/chuvokhi">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+     </a>
+
+<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
 </div>
+
 
 
 <div>
@@ -41,33 +60,14 @@ List of technologies that I use or have some experience with
 </p>
 </div>
 
-<div align="center"><b>Connect with me:</b></div>
 
-<div id="badges" align="center">
-  
-  <a href="https://www.instagram.com/zelimkhan_p/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto: chuchtokha@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
-     </a>
-     <a href="https://www.linkedin.com/in/Zelimkhan-padaev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-     </a>
-  <a href="https://t.me/chuvokhi">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-     </a>
      
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zelimkhan-P)](https://github.com/ryo-ma/github-profile-trophy)
- 
-  <div align="center"><b>Developer Quotes</b></div>
-  
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-  
-</div>
 
+
+
+
+ 
+  
 
 
 
